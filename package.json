@@ -2,7 +2,9 @@
     "name": "Github_Example",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-google-home-notify": "0.0.6"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
