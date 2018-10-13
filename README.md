@@ -1,4 +1,4 @@
-Github_Example
+Github Example with NodeRed and Projects
 ==============
 
 ### About
